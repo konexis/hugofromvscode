@@ -1,4 +1,4 @@
-baseURL = 'https://hugofromvscode.onrender.com/'
+baseURL = 'https://hugofromvscode.onrender.com//'
 languageCode = 'pt-br'
 title = 'Como ser aprovado!'
 theme = 'ananke'
