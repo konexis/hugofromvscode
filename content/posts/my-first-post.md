@@ -17,5 +17,4 @@ Então você começa a estudar e percebe que ainda não sabe muita coisa. O que 
 Está é a melhor estratégia, correto?
 
 ## Errado
-
 É importante deixar isso bem claro porque tem muito concurseiro que acha que não está pronto ainda para fazer questões.
