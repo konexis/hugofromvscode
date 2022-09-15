@@ -12,4 +12,10 @@ Vou repetir para que fique bem claro:
 
 # Teoria só serve para você entender o básico e depois fazer questões.
 
-É importante deixar isso bem claro porque tem muito concurseiro que acha que não está pronto ainda para fazer questões 
+Então você começa a estudar e percebe que ainda não sabe muita coisa. O que você faz?
+"Vou começar a reestudar todos os pdfs desde a aula 01 porque ainda não estou confiante."
+Está é a melhor estratégia, correto?
+
+## Errado
+
+É importante deixar isso bem claro porque tem muito concurseiro que acha que não está pronto ainda para fazer questões.
